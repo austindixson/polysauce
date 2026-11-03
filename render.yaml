@@ -1,7 +1,7 @@
 services:
   - type: static
     name: polysauce
-    repo: https://github.com/RuneweaverStudios/polysauce.git
+    repo: https://github.com/austindixson/polysauce.git
     branch: main
     buildCommand: ""
     staticPublishDirectory: "."
