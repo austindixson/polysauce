@@ -22,7 +22,7 @@ requires = ["python>=3.12"]
 
 [project.urls]
 Homepage = "https://polysauce.xyz"
-Repository = "https://github.com/RuneweaverStudios/polysauce"
+Repository = "https://github.com/austindixson/polysauce"
 
 [[project.scripts]]
 polysauce = "polysauce.py"
